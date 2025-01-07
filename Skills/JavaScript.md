@@ -1,23 +1,23 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `Object` u
+  - `Function` u
+  - `Boolean` u
+  - `Number` u
+  - `BigInt` k
+  - `String` u
+  - `Symbol` k
+  - `Infinity` k
+  - `NaN` k
+  - `undefined` u
+  - `null` u
   - `this`
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
-  - Destructuring
+  - `typeof` u
+  - Destructuring k
   - Generators
   - Iterators
   - Async generator
@@ -32,19 +32,19 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
+  - Equality operators u
+  - Logical operators u
   - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
+  - Bitwise operators h
+  - Ternary operator u
   - `void`
   - `yield`
   - `await`
   - Template literal
-  - Strict mode
+  - Strict mode u
   - Hoisting
-  - `delete`
-  - `in`
+  - `delete` u
+  - `in` u
   - `super`
   - `eval`
   - `static`
@@ -59,38 +59,38 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` u
+  - `while` u
+  - `do..while` u
+  - `for` u
+  - `for..in` u
+  - `for..of` u
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
+  - `throw` k
+  - `break` u
+  - `continue` u
+  - `import` k
+  - `export` k
   - `label`
-  - `try..catch`
-  - `switch`
+  - `try..catch` k
+  - `switch` k
   - `class`
   - `extends`
   - `with`
-  - `new`
+  - `new` h
 - Functions
-  - Arrow function
+  - Arrow function u
   - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
+  - Function declaration u
+  - Function expression u
+  - Default parameters u
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` u
 - Data structures
-  - `Array`
+  - `Array` u
   - `Map`
   - `Set`
   - `WeakMap`
@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js u
+  - npm u
   - prettier
-  - MDN
+  - MDN u
   - TC39
