@@ -1,23 +1,23 @@
 ## JavaScript
 
 - Language
-  - `Object` u
-  - `Function` u
-  - `Boolean` u
-  - `Number` u
-  - `BigInt` k
-  - `String` u
-  - `Symbol` k
-  - `Infinity` k
-  - `NaN` k
-  - `undefined` u
-  - `null` u
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🎓 known
+  - `String`: 🖐️ used
+  - `Symbol`: 🎓 known
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
   - `this`
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof` u
-  - Destructuring k
+  - `typeof`: 🖐️ used
+  - Destructuring: 🎓 known
   - Generators
   - Iterators
   - Async generator
@@ -32,19 +32,19 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators u
-  - Logical operators u
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
   - Logical Assignment
-  - Bitwise operators h
-  - Ternary operator u
+  - Bitwise operators: 👂 heard
+  - Ternary operator: 🖐️ used
   - `void`
   - `yield`
   - `await`
   - Template literal
-  - Strict mode u
+  - Strict mode: 🖐️ used
   - Hoisting
-  - `delete` u
-  - `in` u
+  - `delete`: 🖐️ used
+  - `in`: 🖐️ used
   - `super`
   - `eval`
   - `static`
@@ -59,38 +59,38 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` u
-  - `while` u
-  - `do..while` u
-  - `for` u
-  - `for..in` u
-  - `for..of` u
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
   - `for await`
-  - `throw` k
-  - `break` u
-  - `continue` u
-  - `import` k
-  - `export` k
+  - `throw`: 🎓 known
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
+  - `import`: 🎓 known
+  - `export`: 🎓 known
   - `label`
-  - `try..catch` k
-  - `switch` k
+  - `try..catch`: 🎓 known
+  - `switch`: 🎓 known
   - `class`
   - `extends`
   - `with`
-  - `new` h
+  - `new`: 👂 heard
 - Functions
-  - Arrow function u
+  - Arrow function: 🖐️ used
   - Async function
-  - Function declaration u
-  - Function expression u
-  - Default parameters u
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return` u
+  - `return`: 🖐️ used
 - Data structures
-  - `Array` u
+  - `Array`: 🖐️ used
   - `Map`
   - `Set`
   - `WeakMap`
@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js u
-  - npm u
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
   - prettier
-  - MDN u
+  - MDN: 🖐️ used
   - TC39
